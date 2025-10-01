@@ -1,3 +1,9 @@
+DISCENTES 
+
+DIEGO FERREIRA CAMARGO
+JEAN MARINHO DOS SANTOS
+MATEUS ALEXANDRE ALVES LUZ
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
